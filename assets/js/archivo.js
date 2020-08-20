@@ -1,11 +1,10 @@
 
 
 let nombreClte = '';
-let email = '';
 let direccion = '';
-let cantidadPallets;
-let valorKm = 300;
-let descPorCant;
+let email = '';
+let valorKm = 100;
+let descEfect;
 
 object provincia(nombreProv, distancia) {
     this.pviaDestino = nombreProv;
